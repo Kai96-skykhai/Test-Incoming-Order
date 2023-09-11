@@ -1,0 +1,45 @@
+
+
+.col-3 {
+             height: 100%;
+            width: 250px;
+            position: fixed;
+            top: 0;
+            left: 0;
+            background-color: #f1f4fa;
+            padding-top: 20px;
+}
+
+
+.col-9 {
+            height: 100%;
+            position: fixed;
+            top: 0;
+            left: 250px;
+            right: 0;
+            background-color: #ffffff;
+            padding-top: 20px;
+}
+
+.col-4 {
+    text-align: right;
+}
+
+
+.logo {
+    text-shadow: black;
+    text-shadow: 10px;
+}
+
+.time {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    font-size: 14px;
+}
+
+.col-4 button {
+     border-color: blue;
+    
+}
+
