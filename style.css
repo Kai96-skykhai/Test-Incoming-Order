@@ -52,16 +52,62 @@
             text-shadow: 1px 1px 4px grey;
 }
 
-.form {
-    color: #4a708f;
-    border-bottom: #4a708f;
-    font-size: smaller;
+
+table, th, td {
+   
+  border-bottom: 1px solid gray; 
+  font-size: 12px;
+  padding-left: 10px;
 }
 
+.col-2 {
+    border-bottom: 1px solid grey;
+}
+
+.col-8-background {
+    border-bottom: 1px solid grey;
+    background-color: aqua;
+}
+.col-4-background {
+    border-bottom: 1px solid grey;
+    background-color: aqua;
+}
 .col-4 {
     text-align: right;
 }
 
+.testrelease {
+   
+    background-color: black;
+    text-align: center;
+    color: #f1f4fa;
+    width: fit-content;
+    border-radius: 5px;
+}
+
+.testreassign {
+    border: 1px solid grey;
+    text-align: center;
+    width: fit-content;
+    border-radius: 5px;
+}
+
+.status {
+    
+    background-color: #a5f3fc;
+    text-align: center;
+    color: #1b9dbb;
+    width: fit-content;
+    border-radius: 5px;
+}
+.statusRefund {
+    
+    background-color: #fef08a;
+    text-align: center;
+    color: #d09615;
+    width: fit-content;
+    border-radius: 5px;
+}
 .time {
     position: absolute;
     bottom: 20px;
